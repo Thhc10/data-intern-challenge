@@ -37,7 +37,7 @@ Gráfico 1: Relação entre Vintage Group e Transações
 
 Comparando todas as transações e apenas as transações fraudadas, podemos observar que ocorreu um aumento percentual das transações fraudulentes ante todas as transações nos grupos de usuário mais 'Premium'. Isso se evidencia que no VG1 que é o grupo mais 'Premium' disponível, ocorreu um aumento de 4,9 pontos percentuais.
 
-Para visualizar detalhes da contrução do algoritmo, acesse: [analysis-part2-days-of-week.py](https://github.com/Thhc10/data-intern-challenge/blob/main/Solu%C3%A7%C3%B5es/analysis-part2-vintage-group.py)
+Para visualizar detalhes da contrução do algoritmo, acesse: [analysis-part2-vintage-group.py](https://github.com/Thhc10/data-intern-challenge/blob/main/Solu%C3%A7%C3%B5es/analysis-part2-vintage-group.py)
 
 Tabela 2: Transações agrupadas por Dias da Semana
 
