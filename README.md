@@ -4,7 +4,7 @@ Para analisar e manipular os dados disponibilizados, utilizei a biblioteca Panda
 
 ## Parte 1
 
-O passo a passo de cada solução está no arquivo [analysis-part1.py](https://github.com/Thhc10/data-intern-challenge/blob/main/analysis-part1.py).
+O passo a passo de cada solução está no arquivo [analysis-part1.py](https://github.com/Thhc10/data-intern-challenge/blob/main/Soluções/analysis-part1.py).
 
 Após analisar os dados, foi possível encontrar que a idade média dos consumidores é de 35.1 anos.
 
@@ -37,7 +37,7 @@ Gráfico 1: Relação entre Vintage Group e Transações
 
 Comparando todas as transações e apenas as transações fraudadas, podemos observar que ocorreu um aumento percentual das transações fraudulentes ante todas as transações nos grupos de usuário mais 'Premium'. Isso se evidencia que no VG1 que é o grupo mais 'Premium' disponível, ocorreu um aumento de 4,9 pontos percentuais.
 
-Para visualizar detalhes da contrução do algoritmo, acesse: [analysis-vintage-group.py](https://github.com/Thhc10/data-intern-challenge/blob/main/analysis-vintage-group.py)
+Para visualizar detalhes da contrução do algoritmo, acesse: [analysis-part2-days-of-week.py](https://github.com/Thhc10/data-intern-challenge/blob/main/Solu%C3%A7%C3%B5es/analysis-part2-vintage-group.py)
 
 Tabela 2: Transações agrupadas por Dias da Semana
 
@@ -59,5 +59,5 @@ Comparando todas as transações e apenas as transações fraudadas, é possíve
 
 Sendo assim, é interessante investigar, principalmente, as transações referente ao Vintage Group: VG1 que ocorreram no sábado.
 
-Para visualizar detalhes da contrução do algoritmo, acesse: [analysis-days-of-week.py](https://github.com/Thhc10/data-intern-challenge/blob/main/analysis-days-of-week.py)
+Para visualizar detalhes da contrução do algoritmo, acesse: [analysis-part2-days-of-week.py](https://github.com/Thhc10/data-intern-challenge/blob/main/Solu%C3%A7%C3%B5es/analysis-part2-days-of-week.py)
 
